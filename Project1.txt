@@ -1,4 +1,0 @@
-Project Name: "APPOINTMENT SCHEDULER APP"
-Group Members: 1. Areeba Naseer
-	       2. Aqsa Zahoor
-	       3. Umama Nasir
